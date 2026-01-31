@@ -1,10 +1,10 @@
-# 📉 Customer Churn Prediction (Telecom Domain)
+# Customer Churn Prediction (Telecom Domain)
 
 An end-to-end machine learning project that predicts whether a telecom customer is likely to churn based on demographic, tenure, and billing-related features. The project includes data analysis, model training, and deployment using a Streamlit web application.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 Customer churn is a critical business problem in the telecom industry.  
 This project helps identify customers at risk of leaving by analyzing historical customer data and applying machine learning techniques.
@@ -13,7 +13,7 @@ The application allows real-time churn prediction through a simple web interface
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze customer behavior and churn patterns  
 - Perform data cleaning, EDA, and feature scaling  
@@ -22,7 +22,7 @@ The application allows real-time churn prediction through a simple web interface
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 
 The dataset contains telecom customer information such as:
 
@@ -37,7 +37,7 @@ The dataset contains telecom customer information such as:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages & Libraries**
 - Python  
@@ -53,7 +53,7 @@ The dataset contains telecom customer information such as:
 
 ---
 
-## ⚙️ Machine Learning Workflow
+## Machine Learning Workflow
 
 ### 1. Data Preprocessing
 - Cleaned and prepared raw data  
@@ -80,7 +80,7 @@ The dataset contains telecom customer information such as:
 
 ---
 
-## 📊 Results
+## Results
 
 - Random Forest achieved **86% accuracy** on unseen test data  
 - Tenure and monthly charges were strong indicators of churn  
@@ -88,7 +88,7 @@ The dataset contains telecom customer information such as:
 
 ---
 
-## ▶️ How to Run the Project Locally
+## How to Run the Project Locally
 
 ### Clone the Repository
 ```bash
