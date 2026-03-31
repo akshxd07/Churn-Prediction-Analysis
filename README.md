@@ -14,9 +14,22 @@ achieving 86% accuracy on test data.
 - Clean interactive UI built with Streamlit
 - Trained model and scaler persisted as .pkl files
 
-#
-### Clone the Repository
-```bash
-git clone https://github.com/akshxd07/Customer-Churn-Prediction.git
-cd Customer-Churn-Prediction
+## Tech Stack
+- Python, Pandas, NumPy, Scikit-learn
+- Random Forest Classifier + GridSearchCV
+- Streamlit (deployment)
 
+## Model Performance
+- Accuracy: 86% on test data
+
+## Input Features
+Age, Gender, Tenure, Monthly Charges, and usage-based features
+
+## How to Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## Author
+Akshad Yadav — [LinkedIn](https://linkedin.com/in/akshad-yadav-360724374) | [GitHub](https://github.com/akshxd07)
