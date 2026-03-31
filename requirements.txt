@@ -1,0 +1,5 @@
+streamlit
+joblib
+numpy
+scikit-learn
+pillow==10.2.0
